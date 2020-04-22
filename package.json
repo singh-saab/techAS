@@ -1,0 +1,31 @@
+{
+  "name": "techas",
+  "version": "1.0.0",
+  "description": "this is the website directory for techas",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shivamsoni1737/techAS.git"
+  },
+  "keywords": [
+    "techas",
+    "software",
+    "webdevelopment",
+    "webdesign",
+    "online"
+  ],
+  "author": "shivam soni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shivamsoni1737/techAS/issues"
+  },
+  "homepage": "https://github.com/Shivamsoni1737/techAS#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
